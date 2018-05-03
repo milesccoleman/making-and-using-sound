@@ -6,7 +6,7 @@
     play with some of the parameters until you get a sound that you want 
     
 # Recording and Exporting Sounds
-2. Explorting your track: http://sonic-pi.mehackit.org/exercises/en/08-exporting-your-track/01-exporting-your-track.html 
+2. Export your track: http://sonic-pi.mehackit.org/exercises/en/08-exporting-your-track/01-exporting-your-track.html 
     click "record" to capture your sound
     click "run" to start the sound
     when you get enough of your sound recorded, click "stop," then click on "rec" again to stop the recording
