@@ -37,3 +37,16 @@
 <audio id="audio" src="https://github.com/milesccoleman/sounds/blob/master/sawing-wood-daniel_simon.mp3?raw=true" ></audio>
  </body>
  </html>
+ ```
+<html>
+<body>
+    <script>
+  function play(){
+       var audio = document.getElementById("audio");
+       audio.play();
+                 }
+   </script>
+<input type="button" value="PLAY"  onclick="play()">
+<audio id="audio" src="https://github.com/milesccoleman/sounds/blob/master/sawing-wood-daniel_simon.mp3?raw=true" ></audio>
+</body>
+</html>
