@@ -25,6 +25,7 @@
 	embed the code onto your own website, and enjoy a user feedback sound of your own creation!
   
 ```
+<html>
 <body>
     <script>
   function play(){
@@ -35,7 +36,7 @@
 <input type="button" value="PLAY"  onclick="play()">
 <audio id="audio" src="https://github.com/milesccoleman/sounds/blob/master/sawing-wood-daniel_simon.mp3?raw=true" ></audio>
  </body>
- </html>```
+ </html>
 
    
  
