@@ -1,28 +1,28 @@
 # Making Sounds
 1. Download Sonic Pi: https://sonic-pi.net/
-    copy some of the example code from the homepage
-    play with some of the parameters until you get a sound that you want 
+2. Copy some of the example code from the homepage
+3. Play with some of the parameters until you get a sound that you want 
     
 # Recording and Exporting Sounds
-2. Export your track: http://sonic-pi.mehackit.org/exercises/en/08-exporting-your-track/01-exporting-your-track.html 
-    click "record" to capture your sound
-    click "run" to start the sound
-    when you get enough of your sound recorded, click "stop," then click on "rec" again to stop the recording
-    save your file as a .wav
+4. Export your track: http://sonic-pi.mehackit.org/exercises/en/08-exporting-your-track/01-exporting-your-track.html 
+5. Click "record" to capture your sound
+6. Click "run" to start the sound
+7. When you get enough of your sound recorded, click "stop," then click on "rec" again to stop the recording
+8. Save your file as a .wav
 
 # Hosting Sounds
-3. Make a github account: github.com
-	make a new repository
-	initate with a "read me" file
-	upload your wave file
-	"commit" it
-	click into the file and copy the url
+9. Make a github account: github.com
+10. Make a new repository
+11. Initate with a "read me" file
+12. Upload your wave file
+13. "Commit" it
+14. Click into the file and copy the url
 
 # Using Our Hosted Sound in An Onclick Event
-4. Add ```?raw=true``` to the end of your sound url 
-	copy that whole url
-	then add the url to the following bit of code (replace the URL already in the code with your own) 
-	embed the code onto your own website, and enjoy a user feedback sound of your own creation!
+15. Add ```?raw=true``` to the end of your sound url 
+16. Copy that whole url
+17. Then add the url to the following bit of code (replace the URL already in the code with your own) 
+18. Embed the code onto your own website, and enjoy a user feedback sound of your own creation!
   
 ```
 <html>
