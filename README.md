@@ -18,7 +18,7 @@
 13. "Commit" it
 14. Click into the file and copy the url
 
-# Using Our Hosted Sound in An Onclick Event
+# Using a Hosted Sound File in An Onclick Event
 15. Add ```?raw=true``` to the end of your sound url 
 16. Copy that whole url
 17. Then add the url to the following bit of code (replace the URL already in the code with your own) 
