@@ -21,7 +21,8 @@
 # Using Our Hosted Sound in An Onclick Event
 4. Add ```?raw=true``` to the end of your sound url 
 	copy that whole url
-	then add the url to the following bit of code (replace the URL already in the code with your own)
+	then add the url to the following bit of code (replace the URL already in the code with your own) 
+	embed the code onto your own website, and enjoy a user feedback sound of your own creation!
   
 ```<body>
     <script>
@@ -35,5 +36,5 @@
  </body>
  </html>```
 
-  embed the code onto your own website, and enjoy a user feedback sound of your own creation! 
+   
  
