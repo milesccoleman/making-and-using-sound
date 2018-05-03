@@ -38,7 +38,7 @@
  </body>
  </html>
  ```
-#What It Should Look Like
+# Live Example
 <html>
 <body>
     <script>
