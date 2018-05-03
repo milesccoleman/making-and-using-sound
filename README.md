@@ -24,7 +24,8 @@
 	then add the url to the following bit of code (replace the URL already in the code with your own) 
 	embed the code onto your own website, and enjoy a user feedback sound of your own creation!
   
-```<body>
+```
+<body>
     <script>
   function play(){
        var audio = document.getElementById("audio");
