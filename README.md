@@ -1,5 +1,3 @@
-# Instructions on Making and Using our Own Sounds! 
-
 # Making Sounds
 1. Download Sonic Pi: https://sonic-pi.net/
     copy some of the example code from the homepage
